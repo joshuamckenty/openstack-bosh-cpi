@@ -1,9 +1,15 @@
 # OpenStack BOSH Cloud Provider Interface
 _Bringing the world’s most popular open source platform-as-a-service to the world’s most popular open source infrastructure-as-a-service platform_
 
+This repo contains software designed to manage the deployment of Cloud Foundry on top of OpenStack, using Cloud Foundry BOSH. Say what?
+
 # OpenStack
 
 OpenStack is a collection of interrelated open source projects that, together, form a pluggable framework for building massively-scalable infrastructure as a service clouds. OpenStack represents the world's largest and fastest-growing open cloud community, a global collaboration of over 150 leading companies.
+
+# Cloud Foundry
+
+Cloud Foundry is the leading open source platform-as-a-service (PaaS) offering with a fast growing ecosystem and strong enterprise demand.
 
 # BOSH
 
@@ -12,7 +18,7 @@ Cloud Foundry BOSH is an open source tool chain for release engineering, deploym
  * BOSH Source Code: https://github.com/cloudfoundry/bosh
  * BOSH Documentation: https://github.com/cloudfoundry/oss-docs/blob/master/bosh/documentation/documentation.md
 
-## OpenStack and BOSH, Together
+## OpenStack and Cloud Foundry, Together using BOSH
 
 Cloud Foundry BOSH defines a Cloud Provider Interface API that enables platform-as-a-service deployment across multiple cloud providers - initially VMWare's vSphere and AWS. Piston Cloud has partnered with VMWare to provide a CPI for OpenStack, opening up Cloud Foundry deployment to an entire ecosystem of public and private OpenStack deployments.
 
