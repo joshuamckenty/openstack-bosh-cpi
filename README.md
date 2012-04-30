@@ -1,17 +1,18 @@
 # OpenStack BOSH Cloud Provider Interface
-_Bringing the world’s most popular open source platform-as-a-service to the world’s most popular open source infrastructure-as-a-service platform_
+
+## Bringing the world’s most popular open source platform-as-a-service to the world’s most popular open source infrastructure-as-a-service platform
 
 This repo contains software designed to manage the deployment of Cloud Foundry on top of OpenStack, using Cloud Foundry BOSH. Say what?
 
-# OpenStack
+## OpenStack
 
 OpenStack is a collection of interrelated open source projects that, together, form a pluggable framework for building massively-scalable infrastructure as a service clouds. OpenStack represents the world's largest and fastest-growing open cloud community, a global collaboration of over 150 leading companies.
 
-# Cloud Foundry
+## Cloud Foundry
 
 Cloud Foundry is the leading open source platform-as-a-service (PaaS) offering with a fast growing ecosystem and strong enterprise demand.
 
-# BOSH
+## BOSH
 
 Cloud Foundry BOSH is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services. In this manual we describe the architecture, topology, configuration, and use of BOSH, as well as the structure and conventions used in packaging and deployment.
 
